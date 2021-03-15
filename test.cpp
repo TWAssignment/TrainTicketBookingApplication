@@ -5,7 +5,7 @@
 #include "AdultFareCalculator.hxx"
 
 /* --------------------------------------------------------------------------------------------------
-										Station Manager Suite
+                                  Station Manager Suite
 ---------------------------------------------------------------------------------------------------- */
 TEST(StationManagerSuite, CheckAddStopsApi) 
 {
@@ -60,7 +60,7 @@ TEST(StationManagerSuite, CheckDistanceCalculationApi)
 }
 
 /* --------------------------------------------------------------------------------------------------
-									Ticket Suite
+                                     Ticket Suite
 ---------------------------------------------------------------------------------------------------- */
 TEST(TicketSuite, ValidateTicket)
 {
@@ -79,7 +79,7 @@ TEST(TicketSuite, ValidateTicket)
 }
 
 /* --------------------------------------------------------------------------------------------------
-									Fare Calculator Suite
+                               Fare Calculator Suite
 ---------------------------------------------------------------------------------------------------- */
 TEST(FareCalculatorSuite, CheckInfantFareCalculator)
 {
